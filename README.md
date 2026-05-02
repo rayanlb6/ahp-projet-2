@@ -14,7 +14,11 @@ Utilisation
 4. Si CR > 0.1: matrice incohérente, revoir les jugements
 
 Lancer en local
+
 npm install
+
 npm start
+
 Demo en ligne
+
 https://ahp-projet-21-2ij6bip59-rayanlb6s-projects.vercel.app/
