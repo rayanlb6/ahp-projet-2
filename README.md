@@ -12,6 +12,7 @@ Utilisation
 2. Cliquer "Calculer AHP"
 3. Si CR < 0.1: matrice cohérente, utiliser les poids
 4. Si CR > 0.1: matrice incohérente, revoir les jugements
+
 Lancer en local
 npm install
 npm start
